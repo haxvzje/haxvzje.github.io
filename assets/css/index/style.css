@@ -194,7 +194,7 @@ input[type=button] {
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -moz-tap-highlight-color: rgba(0,0,0,0);
     padding: 12px 20px; 
-    background: #EA7FA7;
+    background: hsla(212, 100%, 40%, 0.774);
     color: #fff;
     border: 0 none;
     cursor: pointer;
@@ -208,7 +208,7 @@ input[type=button] {
 }
 
 input[type=button]:hover {
-    background: #ea7fa6ab;
+    background: hsla(212, 50%, 52%, 0.774)
 }
 
 input[type=button]:active, input[type=button]:focus {
