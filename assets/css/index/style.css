@@ -194,7 +194,7 @@ input[type=button] {
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -moz-tap-highlight-color: rgba(0,0,0,0);
     padding: 12px 20px; 
-    background: hsla(212, 100%, 40%, 0.774);
+    background: hsla(0, 0%, 23%, 0.774);
     color: #fff;
     border: 0 none;
     cursor: pointer;
